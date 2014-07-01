@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RXR_project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RXR_project_jar</output-path>
+    <root id="archive" name="RXR_project.jar">
+      <element id="module-output" name="room_scheduling" />
+    </root>
+  </artifact>
+</component>
